@@ -1,0 +1,25 @@
+# ninja log v5
+38	59	1708906172532800821	brute_force	39f0c6fc5af310f7
+2	38	1708906172512800644	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+1	41	1708906188097938076	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+42	66	1708906188121938287	brute_force	39f0c6fc5af310f7
+3	46	1708906278980739550	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+46	78	1708906279011739824	brute_force	39f0c6fc5af310f7
+3	44	1708906308545000249	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+44	73	1708906308573000496	brute_force	39f0c6fc5af310f7
+3	42	1708906473775457362	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+42	92	1708906473823457785	brute_force	39f0c6fc5af310f7
+2	44	1708906587571460873	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+45	65	1708906587592461059	brute_force	39f0c6fc5af310f7
+2	53	1708906778220142116	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+53	75	1708906778241142301	brute_force	39f0c6fc5af310f7
+2	43	1708907026648319636	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+44	66	1708907026670319829	brute_force	39f0c6fc5af310f7
+1	55	1708907173024600021	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+55	85	1708907173053600274	brute_force	39f0c6fc5af310f7
+1	72	1708908211642714356	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+72	97	1708908211666714567	brute_force	39f0c6fc5af310f7
+1	42	1708908406310433996	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+42	65	1708908406332434190	brute_force	39f0c6fc5af310f7
+1	44	1708908510569354987	CMakeFiles/brute_force.dir/main.c.o	6cd62abbcf15ea92
+44	65	1708908510589355163	brute_force	39f0c6fc5af310f7
